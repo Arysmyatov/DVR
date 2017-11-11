@@ -9,4 +9,4 @@ namespace DVR.Constants
         public const string Vacancy = @"//*[@class='vacancy-section']";
         public const string AboutProject = @"//*[@class='project']";        
     }
-}
+}   
