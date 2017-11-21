@@ -6,6 +6,6 @@ namespace DVR.Models
     {
         public string PositionName { get; set; }
         public string Url { get; set; }
-        public IEnumerable<Tag> Tags { get; set; }
+        public IEnumerable<string> Tags { get; set; }
     }
 }

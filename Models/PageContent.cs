@@ -6,5 +6,6 @@ namespace DVR.Models
         public string CompanyDescription { get; set; }
         public string Vacancy { get; set; }
         public string AboutProject { get; set; }
+        public string PositionDescription { get; set; }
     }
 }

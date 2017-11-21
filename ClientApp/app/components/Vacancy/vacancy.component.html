@@ -1,0 +1,27 @@
+<h1>.NET Vacancies</h1>
+
+<p>Enter the technology to filter</p>
+
+<p *ngIf="!companies">
+    <em>Loading...</em>
+</p>
+<ng2-simple-autocomplete [(search)]="keyword" [searchResults]="staticData" (onSelect)="onSelectItem($event)" (onReset)="onReset($event)" [placeholder]="'technology filter'" [isStatic]="true"></ng2-simple-autocomplete>
+
+<div class="company form-group" *ngFor="let company of companies">
+    <h2 class="company-name"> {{ company.name }} </h2>
+
+    <div class="" *ngFor="let vacancy of company.vacancies">
+        <div class="vacancy-descr">
+            {{ vacancy.positionName }}
+            <br> 
+            <a [attr.href]="vacancy.url" target="_blank">{{ vacancy.url }}</a>
+        </div>
+        <div>
+            <div *ngFor="let t of vacancy.tags">
+                <div class="selected" [class.yellow]="isTagSelected(t)">
+                    <span>{{t}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

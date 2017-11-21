@@ -1,0 +1,30 @@
+.company {
+    margin-top: 25px; 
+}
+.selected{
+    border:solid #4CAF50 1px;
+    background: #4CAF50;
+	float:left; 
+	margin:2px;
+    padding:2px 15px;
+    color: white;
+}
+.yellow {
+    border:solid rgb(44, 103, 46) 1px;    
+    background: rgb(44, 103, 46);
+}
+
+.vacancy-descr, .company-name {
+    padding-top: 10px; 
+    width: 100%;
+    float: left;
+}
+
+.selected span {
+    font-size: 12px;
+}
+
+.selected a {
+	cursor:pointer;
+	font-weight:bold;
+}

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DVR.Persistence;
 using DVR.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -24,6 +25,8 @@ namespace DVR
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IDouVacancyResearcheService, DouVacancyResearcheService>();
+            services.AddSingleton<XmlContext, XmlContext>();
+            services.AddSingleton<ICompanyRepository, CompanyRepository>();
             services.AddMvc();
         }
 
