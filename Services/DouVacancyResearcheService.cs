@@ -240,6 +240,7 @@ namespace DVR.Services
                     if (pageContent.Vacancy
                                    .Contains(technology.ToUpper()))
                     {
+                        tag.Count++;
                         tags.Add(tag.Name);
                         break;
                     }

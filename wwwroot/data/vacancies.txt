@@ -1,0 +1,2856 @@
+<html lang="ru" xmlns:og="http://ogp.me/ns#" class="is_desktop"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<title>Вакансии  в категории .NET в Киеве | DOU</title>
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" sizes="192x192" href="https://s.dou.ua/assets/img/icon.png">
+	<link rel="shortcut icon" sizes="16x16" href="https://s.dou.ua/assets/img/favicon.ico" charset="utf-8">
+
+	
+
+
+
+
+	<link type="text/css" rel="stylesheet" href="https://s.dou.ua/build/built.v1466.23e91c3.css">
+
+
+
+
+
+
+<script>
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};
+	ga('create', 'UA-168613-2', 'auto');
+	ga('set', 'transport', 'beacon');
+	ga('set', 'dimension1', 'Visitor');
+	ga('set', 'dimension2', 'ru');
+	ga('set', 'dimension3', '' + (window.devicePixelRatio >= 1.1));
+	ga('require', 'outboundLinkTracker');
+	ga('send', 'pageview');
+</script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+	<script>
+		var impressions = [];
+	</script>
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style></head>
+
+<body class="b-vacancies-page">
+	<div id="topError" class="top-msg"></div>
+
+
+	<div id="container">
+		<div class="header">
+
+
+
+
+
+<header class="b-head">
+
+	<ul>
+		<li class="logo"><a href="https://dou.ua/"></a></li>
+			<li class="m-hide"><a href="https://dou.ua/">Главная</a></li>
+			<li><a href="https://dou.ua/forums/">Форум</a></li>
+			<li><a href="https://dou.ua/lenta/">Лента</a></li>
+			<li><a href="https://jobs.dou.ua/salaries/">Зарплаты</a></li>
+			<li><a href="https://jobs.dou.ua/" class="sel">Работа</a></li>
+			<li class="m-last"><a href="https://dou.ua/calendar/">Календарь</a></li>
+			<li class="m-hide t-hide"><a href="http://djinni.co/?from=dou_head" target="_blank" rel="noopener">Джинн</a></li>
+
+
+
+
+	</ul>
+
+	<div class="right-part">
+			<form class="search" action="//dou.ua/search/" method="get">
+				<input class="inp" id="txtGlobalSearch" type="text" placeholder="поиск" name="q">
+			</form>
+
+			<a id="login-link" href="javascript:;">Вход и регистрация</a>
+	</div>
+</header>
+	<div class="b-sub-head-n">
+		<div class="wrap">
+			<ul class="sub">
+				<li class="sel"><a class="smi" href="https://jobs.dou.ua/">Вакансии</a></li>
+				<li><a class="smi" href="https://jobs.dou.ua/trends/">Тренды</a></li>
+				<li style="margin-left:20px;"><a class="smi" href="https://jobs.dou.ua/companies/">Компании</a></li>
+				<li class="rank"><a class="smi" href="https://jobs.dou.ua/ratings/"><i class="cup"></i>Рейтинг</a></li>
+				<li class="top"><a class="smi" href="https://jobs.dou.ua/top50/">Топ-50</a></li>
+				<li><a class="smi" href="https://jobs.dou.ua/reviews/">Отзывы</a></li>
+					<li class="m-hide buy"><a class="smi __buy" href="https://jobs.dou.ua/buy/">Купить вакансии</a></li>
+					<li><a class="smi __buy" href="https://jobs.dou.ua/register/">Добавить компанию</a></li>
+			</ul>
+		</div>
+
+		<div class="b-jobs-search">
+	<form action="https://jobs.dou.ua/vacancies/" style="margin-right:-20px;">
+		<select name="category" onchange="this.parentNode.submit()">
+			<option value="">Все категории</option>
+				<option value=".NET" selected="">.NET</option>
+				<option value="1С">1С</option>
+				<option value="Analyst">Analyst</option>
+				<option value="Android">Android</option>
+				<option value="C++">C++</option>
+				<option value="Data Science">Data Science</option>
+				<option value="DBA">DBA</option>
+				<option value="DevOps">DevOps</option>
+				<option value="Embedded">Embedded</option>
+				<option value="ERP/CRM">ERP/CRM</option>
+				<option value="Flash/Flex">Flash/Flex</option>
+				<option value="FP">FP</option>
+				<option value="Front End">Front End</option>
+				<option value="Golang">Golang</option>
+				<option value="HR">HR</option>
+				<option value="iOS/Mac">iOS/Mac</option>
+				<option value="Java">Java</option>
+				<option value="Node.js">Node.js</option>
+				<option value="Other">Other</option>
+				<option value="PHP">PHP</option>
+				<option value="Product Manager">Product Manager</option>
+				<option value="Project Manager">Project Manager</option>
+				<option value="Python">Python</option>
+				<option value="QA">QA</option>
+				<option value="Ruby">Ruby</option>
+				<option value="Sales">Sales</option>
+				<option value="Scala">Scala</option>
+				<option value="SEO">SEO</option>
+				<option value="Support">Support</option>
+				<option value="Technical Writer">Technical Writer</option>
+				<option value="Unity">Unity</option>
+				<option value="Дизайн">Дизайн</option>
+				<option value="Маркетинг">Маркетинг</option>
+				<option value="Системный администратор">Системный администратор</option>
+		</select>
+
+
+		<span style="display:inline-block;padding-bottom:25px;position:relative;width:550px;max-width:100%;margin-right:12px;"><input class="job" type="text" value="" name="search" placeholder="Должность, язык, компания, город, страна. Например, 2D artist"><label style="position:absolute;bottom:0;left:0;"><input type="checkbox" name="descr" value="1"> искать в описаниях вакансий</label></span>
+
+		<input class="btn-search" type="submit" value="Найти">
+
+			<input value="Киев" name="city" type="hidden">
+
+
+
+		<div class="example">
+			Быстрый переход:
+				<a href="https://jobs.dou.ua/vacancies/?category=Python&amp;from=maybe">Python</a>,
+			<a href="https://jobs.dou.ua/vacancies/?beginners&amp;from=maybe">начинающим</a>,
+			<a href="https://jobs.dou.ua/vacancies/?remote&amp;from=maybe">удаленная работа</a>,
+			<a href="https://jobs.dou.ua/vacancies/?relocation&amp;from=maybe">работа за рубежом</a>.
+		</div>
+	</form>
+		</div>
+	</div>
+
+		<div class="g-b-hr __h"></div>
+
+		</div>
+
+
+
+	<div style="padding: 0 20px;" class="content-wrap">
+		<div class="table m-db">
+			<div class="colgroup m-hide">
+				<div class="col67"></div>
+				<div class="col40px"></div>
+				<div class="col-a"></div>
+			</div>
+			<div class="row m-db">
+				<div class="cell m-db">
+						<div class="table">
+							<div class="colgroup">
+								<div class="col72"></div>
+								<div class="col40px"></div>
+								<div class="col-a"></div>
+							</div>
+							<div class="row">
+								<div class="cell">
+	<div class="b-vacancies-head">
+
+
+
+
+
+
+
+
+
+
+
+		<div class="b-inner-page-header">
+			<h1>124 вакансии  в категории .NET в Киеве</h1>
+			<a class="rss" href="https://jobs.dou.ua/vacancies/feeds/?cities=%D0%9A%D0%B8%D0%B5%D0%B2&amp;category=.NET"><em>r</em><span>RSS</span></a>
+		</div>
+	</div>
+
+	<div class="l-items" id="vacancyListId">
+
+			<ul class="lt">
+					
+
+
+<li class="l-vacancy __hot">
+	<div class="vacancy" _id="53103">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/lovecrafts/vacancies/53103/?from=list_hot">Backend Engineer, C#/InRiver</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/lovecrafts/vacancies/?from=list_hot"><img class="f-i" src="https://s.dou.ua/img/static/favicons/lc16_OZFUuIN.png" srcset="https://s.dou.ua/img/static/favicons/lc32_xAiEdld.png 1.1x">&nbsp;LoveCrafts Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				About Us
+
+
+At&nbsp;LoveCrafts we’re building online communities for crafters: homes for makers where they can find inspiration for their latest projects, learn new techniques, easily source all their supplies and share their creations with like-minded makers around the world.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy __hot">
+	<div class="vacancy" _id="54846">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/flying-beagle-ltd/vacancies/54846/?from=list_hot">Junior C# .NET developer (Bitcoin/Ethereum)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/flying-beagle-ltd/vacancies/?from=list_hot">Flying Beagle Limited</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				TEST TASK
+Show that you can do&nbsp;BTC and&nbsp;/ or&nbsp;ETH transactions in&nbsp;C # .NET
+on&nbsp;Windows or&nbsp;Linux (your choice)
+you can use 3rd party libraries for BTC and ETH
+task task deliverable: source code and proof of&nbsp;transactions
+
+http://www.flyingbeaglegames.com/jobs
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy __hot">
+	<div class="vacancy" _id="54652">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/rails-reactor/vacancies/54652/?from=list_hot">.NET Core Engineer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/rails-reactor/vacancies/?from=list_hot">Rails Reactor</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We&nbsp;are writing a&nbsp;new version of&nbsp;a&nbsp;large system managing a&nbsp;full-cycle of&nbsp;healthcare research document flow.
+
+Our customer is&nbsp;a&nbsp;company owning a&nbsp;number of&nbsp;hospitals in&nbsp;Boston which host innovative medical research.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy __hot">
+	<div class="vacancy" _id="54225">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/dataart/vacancies/54225/?from=list_hot">Senior .NET Engineer, Shipping System</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/dataart/vacancies/?from=list_hot"><img class="f-i" src="https://s.dou.ua/img/static/favicons/dataart_vrYNIz5.png" srcset="https://s.dou.ua/img/static/favicons/dataart2x.png 1.1x">&nbsp;DataArt</a></strong>				<span class="cities">Киев, Харьков, Львов, Днепр, Одесса, Херсон, Люблин (Польша), Вроцлав (Польша)</span>
+		</div>
+			<div class="sh-info">
+				Our client is&nbsp;the world’s leading provider of&nbsp;services for sea vessels (repair, equipment delivery, crew change). The company has representative offices in&nbsp;200 ports around the world. One of&nbsp;the services is&nbsp;organizing crew transportation.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy __hot">
+	<div class="vacancy" _id="47619">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/levi9/vacancies/47619/?from=list_hot">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/levi9/vacancies/?from=list_hot"><img class="f-i" src="https://s.dou.ua/img/static/favicons/levi16.png" srcset="https://s.dou.ua/img/static/favicons/932.png 1.1x">&nbsp;Levi9 Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Our client, a&nbsp;leading European business solutions company based in&nbsp;Delft, the Netherlands, is&nbsp;looking for talented engineers to&nbsp;help make the move to&nbsp;the global level.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy __hot">
+	<div class="vacancy" _id="23360">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/preciseq/vacancies/23360/?from=list_hot">Senior/Middle Full Stack Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/preciseq/vacancies/?from=list_hot"><img class="f-i" src="https://s.dou.ua/img/static/favicons/pre.png" srcset="https://s.dou.ua/img/static/favicons/pre32_Fj2QLni.png 1.1x">&nbsp;PreciseQ</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Our projects have been developed using .NET framework + AngularJS and Angular 4&nbsp;as a&nbsp;FrontEnd technology and MS&nbsp;SQL&nbsp;as a&nbsp;DB. 
+We&nbsp;are focused on&nbsp;two domains: HealthCare and RealEstate.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="33890">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/altium-limited/vacancies/33890/">RnD Team Lead (C#) — Kiev</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/altium-limited/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/a16_MiCKNKm.png" srcset="https://s.dou.ua/img/static/favicons/a_A8yqryu.png 1.1x">&nbsp;Altium Limited</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				http://www.altium.com/altium-designer/overview
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="33893">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/altium-limited/vacancies/33893/">Full-Stack Senior C# Engineer (Kiev, R&amp;D)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/altium-limited/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/a16_MiCKNKm.png" srcset="https://s.dou.ua/img/static/favicons/a_A8yqryu.png 1.1x">&nbsp;Altium Limited</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				http://www.altium.com/altium-designer/overview#products
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53303">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/glorium-technologies-corp/vacancies/53303/">Middle .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/glorium-technologies-corp/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/gt.png" srcset="https://s.dou.ua/img/static/favicons/g32_2R6OZTk.png 1.1x">&nbsp;Glorium Technologies</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Excellent knowledge of .NET 4.6, C#
+Good knowledge ASP.NET Web API 2.0&nbsp;/ Asp.Net Core&nbsp;<nobr>1.1-2.0</nobr>
+Knowledge of&nbsp;Software Design Patterns
+Knowledge of&nbsp;Solid Principles
+Experience with MySQL, PostgreSQL
+Experience with Git
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53316">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/daxx-group/vacancies/53316/">Full-stack .Net Tech Lead</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/daxx-group/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/daxx.png" srcset="https://s.dou.ua/img/static/favicons/daxx_dlkMukf.png 1.1x">&nbsp;Daxx BV</a></strong>				<span class="cities">Киев, Харьков, Днепр</span>
+		</div>
+			<div class="sh-info">
+				Client’s company is&nbsp;a&nbsp;well-funded startup founded in&nbsp;mid-2013 that has rapidly gained market share in&nbsp;the SAP ERP Access Controls space, through innovative use of&nbsp;the latest technologies available today.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="55074">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/sistema-upravleniya-reklamoj-rontar/vacancies/55074/">.Net&nbsp;/ C# Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/sistema-upravleniya-reklamoj-rontar/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/rontar.png">&nbsp;Rontar</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Rontar is&nbsp;an&nbsp;international ad-tech company headquartered in&nbsp;Kiev.
+We’re looking for an&nbsp;experienced .Net Developer to&nbsp;join our growing team to&nbsp;work in&nbsp;cutting-edge areas like Machine learning, Big data and high-load infrastructure.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53335">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ipland/vacancies/53335/">Middle+ .NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ipland/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ip_ftmg7qT.png" srcset="https://s.dou.ua/img/static/favicons/ip32.png 1.1x">&nbsp;IPLAND</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				IPLAND (http://ipland.com.ua)&nbsp;— это 100% Украинская быстро развивающаяся
+продуктовая&nbsp;IT компания с&nbsp;набором продуктов в&nbsp;портфолио.
+О&nbsp;проекте: CODA, бизнес система для нашего внутреннего клиента&nbsp;— АСНОВА ХОЛДИНГ (http://asnova.com).
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="55073">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/55073/">C# Software Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/3shape-ukraine.png" srcset="https://s.dou.ua/img/static/favicons/332_soRWGPZ.png 1.1x">&nbsp;3Shape Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				3Shape A/S is&nbsp;a&nbsp;Danish hi-tech company specializing in&nbsp;the production and development of&nbsp;3D&nbsp;solutions (3D&nbsp;scanners and 3D&nbsp;software) for industrial and healthcare applications, such as&nbsp;hearing and dental aid production where we&nbsp;have a&nbsp;global leading position.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52965">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/simcorp/vacancies/52965/">Software Developer for Tools Team</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/simcorp/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/simcorp.png" srcset="https://s.dou.ua/img/static/favicons/sc32.png 1.1x">&nbsp;SimCorp</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				The team ensures that our development environments are automated and scale to&nbsp;fit 300+ developers using a&nbsp;modern tool stack. We&nbsp;expand, improve, integrate and operate the tools used for continuous integration and continuous delivery, and configuration management.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53128">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/serious-cake/vacancies/53128/">Middle/Senior C# разработчик</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/serious-cake/vacancies/">Serious Cake</a></strong>				<span class="salary">$1500–3000</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Кто мы&nbsp;и&nbsp;чем занимаемся:
+
+Serious Cake&nbsp;— молодая, быстро развивающаяся компания. Мы&nbsp;работаем над своим продуктом, никакой заказной разработки.
+
+Наш проект&nbsp;— военно-экономическая стратегия Age of&nbsp;phoenix: Wind of&nbsp;war.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52986">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/52986/">.NET Developer for Key Travel (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Key Travel (http://www.keytravel.com/), Ciklum is&nbsp;looking for .NET Developer to&nbsp;join Kiev team on&nbsp;full-time basis.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="34213">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/34213/">C# 3D&nbsp;Software Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/3shape-ukraine.png" srcset="https://s.dou.ua/img/static/favicons/332_soRWGPZ.png 1.1x">&nbsp;3Shape Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				3Shape A/S is&nbsp;a&nbsp;Danish hi-tech company specializing in&nbsp;the production and development of&nbsp;3D&nbsp;solutions (3D&nbsp;scanners and 3D&nbsp;software) for industrial and healthcare applications, such as&nbsp;hearing and dental aid production where we&nbsp;have a&nbsp;global leading position.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54973">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/betlab/vacancies/54973/">Senior .NET Developer for Live team</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/betlab/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/betlab16.png" srcset="https://s.dou.ua/img/static/favicons/betlab32.png 1.1x">&nbsp;BETLAB</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				—&nbsp;Proven experience in&nbsp;commercial software development over 5&nbsp;years 
+—&nbsp;Good understanding of&nbsp;systems that consist of&nbsp;multiple containers (C4&nbsp;model)
+—&nbsp;Expertise in&nbsp;software design principles: OOD, SOLID, patterns
+—&nbsp;Knowledge of&nbsp;such tools and technologies: .NET 4.5/C#, MultiThreading+TPL,...
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54954">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/infopulse/vacancies/54954/">.NET Software Engineer (ID: 6154)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/infopulse/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/infopulse.png" srcset="https://s.dou.ua/img/static/favicons/i32_AFisTru.png 1.1x">&nbsp;Infopulse</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Infopulse Ukraine welcomes talented professionals to&nbsp;join our project as&nbsp;a .NET Software Engineer. The customer is&nbsp;a&nbsp;large German multinational engineering and electronics company, a&nbsp;world-known brand.
+			</div>
+	</div>
+</li>
+
+
+					
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52892">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/52892/">Senior .Net Web Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/3shape-ukraine.png" srcset="https://s.dou.ua/img/static/favicons/332_soRWGPZ.png 1.1x">&nbsp;3Shape Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				3Shape A/S is&nbsp;a&nbsp;Danish hi-tech company specializing in&nbsp;the production and development of&nbsp;3D&nbsp;solutions (3D&nbsp;scanners and 3D&nbsp;software) for industrial and healthcare applications, such as&nbsp;hearing and dental aid production, where we&nbsp;have a&nbsp;global leading position for more than&nbsp;10...
+			</div>
+	</div>
+</li>
+
+
+			
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54942">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ilogos/vacancies/54942/">.Net developer (Sitecore)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ilogos/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ilogos.png" srcset="https://s.dou.ua/img/static/favicons/i32.png 1.1x">&nbsp;iLogos</a></strong>				<span class="cities">Киев, Харьков, Одесса, Кривой Рог, за рубежом, удаленно</span>
+		</div>
+			<div class="sh-info">
+				Разработка веб-сайтов с&nbsp;использованием the Sitecore Content Management System (CMS) для среднего бизнеса, использующих свою инфраструктуру и&nbsp;акселератор для разработки Sitecore. Работа ведется с&nbsp;использованием фреймворка SCORE (Вам помогут его освоить).
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52786">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/null-gravity/vacancies/52786/">Senior .NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/null-gravity/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/16_UIzAKpc.png" srcset="https://s.dou.ua/img/static/favicons/32_aRPENxx.png 1.1x">&nbsp;NullGravity</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				• 5+&nbsp;years of&nbsp;experience in .NET and Web applications;
+• Strong knowledge in&nbsp;ASP.NET Web API 2.0 and ASP.NET Identity
+• Strong knowledge in .NET Fundamentals;
+• Strong knowledge in&nbsp;ASP.NET Web API ;
+• Good knowledge in&nbsp;SQL Server and capacity in&nbsp;database modeling;...
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="20341">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/trinetix/vacancies/20341/">Xamarin Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/trinetix/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/trinetix.png" srcset="https://s.dou.ua/img/static/favicons/trinetix_2x.png 1.1x">&nbsp;Trinetix</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				If&nbsp;you’re an&nbsp;experienced Xamarin or&nbsp;an&nbsp;experienced .NET Software Developer with a&nbsp;strong desire to&nbsp;be&nbsp;innovative we&nbsp;would like to&nbsp;know you.
+As&nbsp;a&nbsp;part of&nbsp;the biggest Ukrainian Xamarin tight-knit team you’ll be&nbsp;working with professionals to&nbsp;build the future of&nbsp;their technology.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54938">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ladevelopers-inc/vacancies/54938/">Xamarin Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ladevelopers-inc/vacancies/">LADevelopers Inc.</a></strong>				<span class="salary">$3000–4000</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We’ve received a&nbsp;large contract from a&nbsp;client in&nbsp;the fastest growing industry in&nbsp;USA. In&nbsp;order to&nbsp;support growing project needs we’re building a&nbsp;team in&nbsp;Kiev Ukraine. The company is&nbsp;a&nbsp;marketplace with logistics management.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54933">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/betlab/vacancies/54933/">Senior .Net Developer for Math team</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/betlab/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/betlab16.png" srcset="https://s.dou.ua/img/static/favicons/betlab32.png 1.1x">&nbsp;BETLAB</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				—&nbsp;Strong knowledge of .NET 4.5/C#; 
+—&nbsp;Software Design knowledge: OOD, OOP, design patterns, microservices; 
+—&nbsp;Knowledge of&nbsp;JS/HTML/CSS; 
+—&nbsp;Basic knowledge of&nbsp;probability theory and mathematical statistics; 
+—&nbsp;Knowledge and hands-on experience with data analysis, data mining,...
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="38859">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/jooble/vacancies/38859/">.NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/jooble/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/jooble.png">&nbsp;Jooble</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				—&nbsp;Способность и&nbsp;желание быстро обучаться
+—&nbsp;Опыт коммерческой разработки от&nbsp;1&nbsp;года
+—&nbsp;Опыт разработки на&nbsp;C# от&nbsp;2&nbsp;лет
+—&nbsp;Знание принципов ООП и&nbsp;шаблонов проектирования
+—&nbsp;Опыт работы с&nbsp;ASP.NET MVC
+—&nbsp;Хорошее знание SQL (MSSQL)
+—&nbsp;Знание алгоритмов и&nbsp;структур данных
+—&nbsp;Знание особенностей...
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54900">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/corevalue/vacancies/54900/">Middle .NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/corevalue/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/corevalue.png" srcset="https://s.dou.ua/img/static/favicons/cm32.png 1.1x">&nbsp;CoreValue</a></strong>				<span class="cities">Киев, Львов, Полтава</span>
+		</div>
+			<div class="sh-info">
+				The project delivers full-service technology and outsourcing solutions to&nbsp;the mortgage default servicing industry.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52633">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/terrasoft/vacancies/52633/">Full-stack C#/JavaScript Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/terrasoft/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/terrasoft.png" srcset="https://s.dou.ua/img/static/favicons/32_EzI5Qi2.png 1.1x">&nbsp;Terrasoft</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Наш основной продукт&nbsp;— система bpm’online, SPA-решение, построенное по&nbsp;модели SaaS. Мы&nbsp;работаем по&nbsp;процессу Continuous Integration.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54881">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/axon-development-group/vacancies/54881/">.NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/axon-development-group/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/a_UvNpAFR.png" srcset="https://s.dou.ua/img/static/favicons/a32_JHNynSw.png 1.1x">&nbsp;Axon Development Group</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				3+&nbsp;years of&nbsp;experience in&nbsp;development of&nbsp;commercial applications on&nbsp;the .NET platform; 
+—&nbsp;Experience with technologies and frameworks: 
+*ASP.Net MVC 4.0+, ASP.NET WebApi, .NET Entity Framework, 
+*Microsoft C# 5+, 
+*Android&nbsp;2.2 +, iOS (6, 7), 
+*WebForms, Forms Authentication,...
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52634">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/terrasoft/vacancies/52634/">C#/.NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/terrasoft/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/terrasoft.png" srcset="https://s.dou.ua/img/static/favicons/32_EzI5Qi2.png 1.1x">&nbsp;Terrasoft</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Наш основной продукт&nbsp;— система bpm’online, SPA-решение, построенное по&nbsp;модели SaaS. Мы&nbsp;работаем по&nbsp;процессу Continuous Integration.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="34879">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/unity-bars/vacancies/34879/">.NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/unity-bars/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ub.png" srcset="https://s.dou.ua/img/static/favicons/ub32.png 1.1x">&nbsp;UNITY-BARS</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Більше 26&nbsp;років успішної роботи в&nbsp;сфері розробки банківського програмного забезпечення. Понад 100 професійних фахівців різних напрямків, у&nbsp;тому числі 60%&nbsp;— розробники.
+Більш докладно про нас&nbsp;Ви можете дізнатися на&nbsp;нашому сайті:
+unity-bars.com
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="2816">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/melior-games/vacancies/2816/">C# (Unity 3D) Game Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/melior-games/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/melior.ico">&nbsp;Melior Games</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				—&nbsp;Strong C# programming skills;
+—&nbsp;Unity 3D&nbsp;experience;
+—&nbsp;Technical knowledge of&nbsp;game development practices and techniques;
+—&nbsp;Collaboration in&nbsp;code review process;
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52733">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/allstars-it/vacancies/52733/">JB-106 Full Stack JS&nbsp;Team Leader</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/allstars-it/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/alls.png" srcset="https://s.dou.ua/img/static/favicons/st32_nQM3jD0.png 1.1x">&nbsp;AllStars-IT Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Varonis Systems is&nbsp;the leader in&nbsp;unstructured and semi-structured data governance software, which is&nbsp;any human generated data that is&nbsp;within a&nbsp;company’s environment. Our goal is&nbsp;to&nbsp;protect companies most sensitive information from insider threats and cyberattacks.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="42147">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/softclub/vacancies/42147/">middle full stack (C#+JavaScript) developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/softclub/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/16_Sim3IFz.png" srcset="https://s.dou.ua/img/static/favicons/s32_fZ5ekeR.png 1.1x">&nbsp;SoftClub</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Проекты по&nbsp;внедрению решений на&nbsp;платформе bpm’online. Создание индивидуального продукта под потребности больших заказчиков.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="44850">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/grammarly/vacancies/44850/">Software Engineer, .NET</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/grammarly/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/g_mQRDSae.png" srcset="https://s.dou.ua/img/static/favicons/g32_j35KBb0.png 1.1x">&nbsp;Grammarly</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Grammarly’s AI-powered products help people communicate more effectively.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54694">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/aval/vacancies/54694/">.Net developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/aval/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/aval.png" srcset="https://s.dou.ua/img/static/favicons/a32_WoPJi1m.png 1.1x">&nbsp;Raiffeisen Bank Aval</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Мати навички аналізу потреб та&nbsp;пропозицій бізнес підрозділів з&nbsp;метою вдосконалення програмних комплексів :.Net, c#, javascript, java, PL/SQL, shell, isql, Oracle, Apache, Microsoft SQL&nbsp;Server, IIS , Unix.
+Вміння та&nbsp;знання побудови інформаційних систем та&nbsp;баз даних.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54687">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/newgistics/vacancies/54687/">Senior Full Stack Developer (.NET)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/newgistics/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/16_lemvhvk.png" srcset="https://s.dou.ua/img/static/favicons/32_vm4nffE.png 1.1x">&nbsp;Newgistics</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Founded in&nbsp;1999 in&nbsp;Austin, TX, Newgistics is&nbsp;one of&nbsp;the largest and most successful&nbsp;US based companies that you have probably never heard&nbsp;of.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="47210">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/newgistics/vacancies/47210/">Senior .NET Developer (Data team)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/newgistics/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/16_lemvhvk.png" srcset="https://s.dou.ua/img/static/favicons/32_vm4nffE.png 1.1x">&nbsp;Newgistics</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Founded in&nbsp;1999 in&nbsp;Austin, TX, Newgistics is&nbsp;one of&nbsp;the largest and most successful&nbsp;US based companies that you have probably never heard&nbsp;of.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="11518">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/lohika-systems/vacancies/11518/">Senior C#/.Net SW&nbsp;Engineer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/lohika-systems/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/lh.png" srcset="https://s.dou.ua/img/static/favicons/lohika32.png 1.1x">&nbsp;Lohika</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We&nbsp;are looking for a&nbsp;Senior C# Engineer, who possesses a&nbsp;passion for pushing the technologies to&nbsp;the limits and will work with our team of&nbsp;talented developers.
+You will participate in&nbsp;highly technical project and work with an&nbsp;emphasis on&nbsp;product quality.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="17730">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/starwind/vacancies/17730/">C# Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/starwind/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/starwind.png">&nbsp;StarWind®</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				StarWind Software is&nbsp;a&nbsp;global leader in&nbsp;storage management and SAN software. Currently we&nbsp;are looking for a&nbsp;highly skilled C# Developer to&nbsp;join our awesome, ultra-productive R&amp;D&nbsp;Team.
+
+This is&nbsp;an&nbsp;exciting and challenging role.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54619">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/cloudroute/vacancies/54619/">Junior .NET Engineer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/cloudroute/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/cr16_ULfu89V.png" srcset="https://s.dou.ua/img/static/favicons/cr32_9f9j4xo.png 1.1x">&nbsp;CloudRoute, LLC</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We&nbsp;seek a&nbsp;junior yet confident professional with a&nbsp;sound engineering background, keen problem-solving mindset, and mature team-ready workstyle. For&nbsp;us that means a&nbsp;professional skillful enough to&nbsp;reliably cover development of&nbsp;back-end of&nbsp;a&nbsp;complex business system.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="44536">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/artificial-core/vacancies/44536/">.NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/artificial-core/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/16_MlsfZLR.png" srcset="https://s.dou.ua/img/static/favicons/32_B33Adce.png 1.1x">&nbsp;Artificial Core</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Artificial Core предлагает стать частью нашей команды в&nbsp;создании масштабной open world MMO RPG.
+Мы&nbsp;ищем талантливого разработчика для работы над Web проектами компании, а&nbsp;также участия в&nbsp;разработке игры.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="42353">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/maxitech/vacancies/42353/">Senior Backend .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/maxitech/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/16_KXs1ECf.png" srcset="https://s.dou.ua/img/static/favicons/m32_ax1XBMa.png 1.1x">&nbsp;Maxitech Software</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Maxitech is&nbsp;looking for Senior .NET Developer to&nbsp;join the Kyiv team.
+We&nbsp;are a&nbsp;software company developing solutions in&nbsp;FinTech area. Our products are addressing the needs of&nbsp;Forex companies who target the wide audience of&nbsp;private investors.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="44133">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/cloudroute/vacancies/44133/">Middle .NET Engineer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/cloudroute/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/cr16_ULfu89V.png" srcset="https://s.dou.ua/img/static/favicons/cr32_9f9j4xo.png 1.1x">&nbsp;CloudRoute, LLC</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We&nbsp;seek a&nbsp;person with a&nbsp;sound engineering background, keen problem-solving mindset, and mature team-ready workstyle. For&nbsp;us that means a&nbsp;professional skillful and experienced enough to&nbsp;reliably cover development of&nbsp;back-end of&nbsp;a&nbsp;complex business system.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="39900">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/room8studio/vacancies/39900/">C#/.NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/room8studio/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/room.png" srcset="https://s.dou.ua/img/static/favicons/s32_jTdlklw.png 1.1x">&nbsp;Room 8 Studio</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				—&nbsp;At&nbsp;least 2&nbsp;years of&nbsp;experience working with .Net Framework using C#;
+—&nbsp;Knowledge OOP;
+—&nbsp;Undersanding: generics, inversion of&nbsp;control (dependency injection), await/async, closures
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52529">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/invisiblecrm/vacancies/52529/">Middle .NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/invisiblecrm/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/i16_NVAQ5Nn.png" srcset="https://s.dou.ua/img/static/favicons/i32_DwFA8Pk.png 1.1x">&nbsp;Invisible</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Position description:
+Leading U.S. based technology developer (named Cool Vendor by&nbsp;Gartner) opens Middle .NET developer position in&nbsp;Kiev branch office. You are intended to&nbsp;create, maintain and support&nbsp;AT scripts.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="50666">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/rabota-ua/vacancies/50666/">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/rabota-ua/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/rabotaua.ico">&nbsp;rabota.ua</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Это высоконагруженный проект&nbsp;— посещаемость сайта rabota.ua более 4&nbsp;млн уникальных пользователей
+backend: ASP.NET WebForms, ASP.NET MVC, ASP.NET WebApi
+frontend: Angular2, KnockoutJS, ExtJS, jQuery
+препроцессор: SASS
+постановщик задач: Jira
+сборщики: grunt/gulp/webpack
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54552">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/kpmg/vacancies/54552/">Junior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/kpmg/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/k16_6bwVyHz.png" srcset="https://s.dou.ua/img/static/favicons/k32_qHwqj6e.png 1.1x">&nbsp;KPMG</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				KPMG International is&nbsp;a&nbsp;global network of&nbsp;professional firms providing Audit, Tax and Advisory services. We&nbsp;operate in&nbsp;152 countries and have over 189,000 people working in&nbsp;member firms around the world.
+KPMG Ukraine is&nbsp;looking for Junior .NET Developer.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54550">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/kpmg/vacancies/54550/">Middle .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/kpmg/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/k16_6bwVyHz.png" srcset="https://s.dou.ua/img/static/favicons/k32_qHwqj6e.png 1.1x">&nbsp;KPMG</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				KPMG International is&nbsp;a&nbsp;global network of&nbsp;professional firms providing Audit, Tax and Advisory services. We&nbsp;operate in&nbsp;152 countries and have over 189,000 people working in&nbsp;member firms around the world.
+KPMG Ukraine is&nbsp;looking for Middle .NET Developer.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54537">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/betlab/vacancies/54537/">Senior .NET Developer for Core Team</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/betlab/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/betlab16.png" srcset="https://s.dou.ua/img/static/favicons/betlab32.png 1.1x">&nbsp;BETLAB</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Core Team is&nbsp;developing products for game accounts managing. Also, it&nbsp;builds tools for data monitoring connected with calculations, player’s activities and their preferences in&nbsp;betting rates.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="23515">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/macphun-llc/vacancies/23515/">Senior C# Engineer (WPF)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/macphun-llc/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/m16.png" srcset="https://s.dou.ua/img/static/favicons/m32_jZ1USJ4.png 1.1x">&nbsp;Macphun Software</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Новый проект, у&nbsp;большинства задач есть S.M.A.R.T оценка.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="46371">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/simcorp/vacancies/46371/">Middle C# developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/simcorp/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/simcorp.png" srcset="https://s.dou.ua/img/static/favicons/sc32.png 1.1x">&nbsp;SimCorp</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Свой продукт&nbsp;— SimCorp Dimenssion
+Команды кросс- лоцированные: Украина, Германия, Дания.
+Разработка модулей Portfolio Analytics and Reporting. Все заказчики&nbsp;— иностранные компании, крупнейшие инвестиционные и&nbsp;финансовые фонды мира.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="39253">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/39253/">Senior Sitecore .Net Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/3shape-ukraine/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/3shape-ukraine.png" srcset="https://s.dou.ua/img/static/favicons/332_soRWGPZ.png 1.1x">&nbsp;3Shape Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				3Shape A/S is&nbsp;a&nbsp;Danish hi-tech company specializing in&nbsp;the production and development of&nbsp;3D&nbsp;solutions (3D&nbsp;scanners and 3D&nbsp;software) for industrial and healthcare applications, such as&nbsp;hearing and dental aid production where we&nbsp;have a&nbsp;global leading position.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54502">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/digicode/vacancies/54502/">Full-stack .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/digicode/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/dc_pEh9c27.png" srcset="https://s.dou.ua/img/static/favicons/dc32.png 1.1x">&nbsp;Digicode</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Digicode is&nbsp;looking for Full-stack .NET Developer who will join our team.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54413">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/virtuace-inc/vacancies/54413/">Web Developer with Tridion SDL experience</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/virtuace-inc/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/virtuace.png" srcset="https://s.dou.ua/img/static/favicons/va32.png 1.1x">&nbsp;Virtuace Inc</a></strong>				<span class="cities">Киев, Харьков, Житомир, Ровно, удаленно</span>
+		</div>
+			<div class="sh-info">
+				We&nbsp;are looking for a&nbsp;niche skill person for redesign project ( with our client- big american insurance company)&nbsp;— a&nbsp;developer with Tridion SDL Content manager experience.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54409">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/valtech/vacancies/54409/">Middle&nbsp;/ Senior .Net Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/valtech/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/vt.png" srcset="https://s.dou.ua/img/static/favicons/vt32.png 1.1x">&nbsp;Valtech</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				•	At&nbsp;least <nobr>3-5</nobr> years of&nbsp;project experience projects;
+•	<nobr>3-5</nobr> years’ experience in&nbsp;ASP.NET, C#;
+•	Technology stack on&nbsp;backend: .Net 4, ASP.Net WebForm with EpiServer 6, ASP.NET up&nbsp;to .NET 4.5.2&nbsp;с ASP.NET MVC with EpiServer 9;
+•	WebApi, MS&nbsp;SQL;
+•	Stack on&nbsp;frontend: HTML/CSS, jQuery;...
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54390">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/playtech/vacancies/54390/">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/playtech/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/pt.png" srcset="https://s.dou.ua/img/static/favicons/pt2.png 1.1x">&nbsp;Playtech</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Information Solutions and R&amp;D group is&nbsp;a&nbsp;global unit that is&nbsp;developing and providing diverse information solutions for internal use, ranging from complex web based information systems to&nbsp;mobile based apps.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="42331">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/brain-agency/vacancies/42331/">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/brain-agency/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/brain.png" srcset="https://s.dou.ua/img/static/favicons/b32.png 1.1x">&nbsp;Brain agency</a></strong>				<span class="cities">Киев, Амстердам (Нидерланды), удаленно</span>
+		</div>
+			<div class="sh-info">
+				At&nbsp;WeAreBrain we&nbsp;re-imagine and re-invent technology development. Launched in&nbsp;2015&nbsp;we are one of&nbsp;the fastest growing technology businesses in&nbsp;Europe and the United States.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="50137">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/50137/">Middle .NET Developer for SBTech Retail Unit (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;SBTech, Ciklum is&nbsp;looking for a&nbsp;Middle .Net Developer to&nbsp;join Kiev team on&nbsp;a&nbsp;full-time basis.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="44195">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/44195/">Senior C#/F#/.NET Developer for SBTech Online Unit (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;SBTech ( http://www.sbtech.com/ ), Ciklum is&nbsp;looking for Senior F#/.NET Developer to&nbsp;join Kyiv team on&nbsp;full-time basis.
+			</div>
+	</div>
+</li>
+
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="50203">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/materialise/vacancies/50203/">С#/С++ Software Engineer (BP)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/materialise/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/mt.png" srcset="https://s.dou.ua/img/static/favicons/mt2.png 1.1x">&nbsp;Materialise</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Project: Materialise Build Processors are the layer of&nbsp;high-level drivers of&nbsp;the variety of&nbsp;3D&nbsp;printing machines developed by&nbsp;different manufacturers which are printing with different technologies.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="52320">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/innovecs/vacancies/52320/">Middle QA&nbsp;Automation (C#)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/innovecs/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/innovecs_16.png" srcset="https://s.dou.ua/img/static/favicons/innovecs32.png 1.1x">&nbsp;Innovecs</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Innovecs is&nbsp;looking for a&nbsp;QA&nbsp;Engineer to&nbsp;join our team developing an&nbsp;enterprise-scale web based platform for online lotteries. We&nbsp;provide our services to&nbsp;state lotteries and to&nbsp;B2B partners worldwide.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54295">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ideals-solutions/vacancies/54295/">Middle .Net Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ideals-solutions/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ideals.png" srcset="https://s.dou.ua/img/static/favicons/id32.png 1.1x">&nbsp;iDeals Solutions</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				International software technological Company&nbsp;— iDeals Solutions https://www.idealsvdr.com/ opens a&nbsp;new position for Middle .NET Developer in&nbsp;its Kiev office.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54284">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/54284/">Senior .NET developer for Tobii Pro (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Tobii (www.tobii.com) Ciklum is&nbsp;looking for a&nbsp;Senior .Net (WPF) developer to&nbsp;join Kyiv team on&nbsp;full-time basis.
+
+
+
+As&nbsp;a&nbsp;developer in&nbsp;Tobii you will be&nbsp;using the latest technologies in&nbsp;combination with modern tools to&nbsp;obtain the most efficient working environment.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54271">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/54271/">Senior Back End .NET Developer for 7digital (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;7digital, Ciklum is&nbsp;looking for Senior Back End .NET Developer to&nbsp;join Kyiv team on&nbsp;full-time basis. Client’s website: about.7digital.com
+7digital is&nbsp;the global leader in&nbsp;end-to-end digital music solutions.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51506">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/51506/">Junior C# Developer for Tobii Pro (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Tobii (www.tobii.com), Ciklum is&nbsp;looking for Junior C# Developer to&nbsp;join Kyiv team on&nbsp;full-time basis.
+As&nbsp;a&nbsp;developer at&nbsp;Tobii you will be&nbsp;using the latest technologies in&nbsp;combination with modern tools to&nbsp;obtain the most efficient working environment.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="50311">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/50311/">Senior .NET Software Engineer for Just Eat (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Just Eat, Ciklum is&nbsp;looking for a&nbsp;Senior .NET Software Engineer for our team in&nbsp;Kyiv on&nbsp;full-time basis.
+As&nbsp;a&nbsp;rapidly growing company, JUST EAT are always looking for exceptional people at&nbsp;all levels to&nbsp;join&nbsp;us.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="50336">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ring-ukraine/vacancies/50336/">C# UWP developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ring-ukraine/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ring.png" srcset="https://s.dou.ua/img/static/favicons/ring32.png 1.1x">&nbsp;Ring Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				About Ring Ukraine
+
+We&nbsp;are a&nbsp;hardcore research and product development company hungry to&nbsp;build the next generation of&nbsp;smart home security products.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="46246">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/simcorp/vacancies/46246/">Experienced C# developer (ENG)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/simcorp/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/simcorp.png" srcset="https://s.dou.ua/img/static/favicons/sc32.png 1.1x">&nbsp;SimCorp</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Product development&nbsp;— SimCorp Dimenssion. New version release 2&nbsp;times a&nbsp;year.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="25318">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/open-soft-llc/vacancies/25318/">.NET, C# Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/open-soft-llc/vacancies/">Open Soft, LLC</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				OpenSoft (www.os-it.com) works for the well known 
+AVL-group, operating worldwide in&nbsp;the field 
+of&nbsp;the automotive industry www.avl.com.
+
+Please, send your&nbsp;CV written in&nbsp;English to&nbsp;admin@os-it.com
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="48527">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/48527/">Senior .NET Developer (Full Stack) for Betsson Group (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Betsson Group (http://www.betssongroup.com/) Ciklum is&nbsp;looking Senior .NET Developer (Full Stack) for the team in&nbsp;Kyiv on&nbsp;a&nbsp;full-time basis.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="47580">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/47580/">Senior .NET Developer for QualiWare (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;QualiWare ( https://www.qualiware.com/ ), Ciklum is&nbsp;looking for Senior .NET Developer to&nbsp;join Kyiv team on&nbsp;full-time basis.
+
+QualiWare is&nbsp;a&nbsp;Danish company with headquarter in&nbsp;Copenhagen.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="25442">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/agency-of-internet-rights/vacancies/25442/">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/agency-of-internet-rights/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/air.png" srcset="https://s.dou.ua/img/static/favicons/air32.png 1.1x">&nbsp;AIR (Agency of Internet Rights)</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				•	Deep understanding of&nbsp;OOP/OOD&nbsp;principles;
+•	Excellent knowledge of&nbsp;C#/.NET;
+•	Professional standards-based web development using ASP.NET, HTML/HTML5, CSS/CSS3, and JavaScript;
+•	Good knowledge WCF, Restful web-api’s, Entity Framework, Message Queue, TPL;
+•	noSQL&nbsp;experience...
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="49816">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/fareportal-r-and-d-center-in-ukraine/vacancies/49816/">Senior .NET Software Engineer (FinTech)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/fareportal-r-and-d-center-in-ukraine/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/fp16.png" srcset="https://s.dou.ua/img/static/favicons/fp32.png 1.1x">&nbsp;Fareportal</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Мы&nbsp;— Fareportal R&amp;D-center, киевский офис глобальной компании Fareportal. В&nbsp;ноябре 2017 нам будет два года. Сейчас наc 45&nbsp;человек, команда активно растет.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="43960">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/levi9/vacancies/43960/">Junior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/levi9/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/levi16.png" srcset="https://s.dou.ua/img/static/favicons/932.png 1.1x">&nbsp;Levi9 Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Our client, a&nbsp;leading European business solutions company based in&nbsp;Delft, the Netherlands, is&nbsp;looking for talented engineers to&nbsp;help make the move to&nbsp;the global level.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54103">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/sistema-upravleniya-reklamoj-rontar/vacancies/54103/">.Net&nbsp;/ C# Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/sistema-upravleniya-reklamoj-rontar/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/rontar.png">&nbsp;Rontar</a></strong>				<span class="salary">$2000–4000</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Rontar is&nbsp;an&nbsp;international ad-tech company headquartered in&nbsp;Kiev.
+We’re looking for an&nbsp;experienced .Net Developer to&nbsp;join our growing team to&nbsp;work in&nbsp;cutting-edge areas like Machine learning, Big data and high-load infrastructure.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54095">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/54095/">Back End Developer for Ciklum Client (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Ciklum New Client, we&nbsp;are looking for experienced Back End Developer to&nbsp;join Kyiv team on&nbsp;full-time basis, to&nbsp;work with&nbsp;us on&nbsp;a&nbsp;scalable backend, serving millions of&nbsp;daily players.
+
+Our client is&nbsp;a&nbsp;Tel Aviv based game development company.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="48166">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/speak-with-a-geek/vacancies/48166/">Middle .NET Engineer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/speak-with-a-geek/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/s16_h7iB3DV.png" srcset="https://s.dou.ua/img/static/favicons/s32_eI9vvd1.png 1.1x">&nbsp;Speak With A Geek</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Speak With A&nbsp;Geek (SWAG) is&nbsp;a&nbsp;worldwide technology company. Founded in&nbsp;1999, SWAG is&nbsp;headquartered in&nbsp;San Francisco, CA, with a&nbsp;development office in&nbsp;Kyiv.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54089">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ideals-solutions/vacancies/54089/">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ideals-solutions/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ideals.png" srcset="https://s.dou.ua/img/static/favicons/id32.png 1.1x">&nbsp;iDeals Solutions</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				International software technological Company&nbsp;— iDeals Solutions https://www.idealsvdr.com/ opens a&nbsp;new position for Senior .NET Developer in&nbsp;its Kiev office.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54071">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/54071/">Senior .NET Developer for Ciklum Client (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Ciklum .NET Solutions Team, we&nbsp;are looking for Senior .NET Developer to&nbsp;join Kyiv team on&nbsp;full-time basis.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="54049">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/54049/">.NET Software Engineer for Just Eat (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Just Eat (http://www.just-eat.com/), Ciklum is&nbsp;looking for a .NET Software Engineer to&nbsp;join Kyiv team on&nbsp;a&nbsp;full-time basis
+
+As&nbsp;a&nbsp;rapidly growing company, JUST EAT are always looking for exceptional people at&nbsp;all levels to&nbsp;join&nbsp;us.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51820">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/51820/">Senior .NET Back End Developer for 7digital (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;7digital Ciklum is&nbsp;looking for Senior Back End .NET Developer to&nbsp;join Kyiv team on&nbsp;full-time basis.
+
+Client details
+7digital is&nbsp;the global leader in&nbsp;end-to-end digital music solutions.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="38628">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/db-best/vacancies/38628/">Dynamics CRM&nbsp;Developer/Administrator</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/db-best/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/db16.png" srcset="https://s.dou.ua/img/static/favicons/db32.png 1.1x">&nbsp;DB BEST Technologies</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				—&nbsp;experience of&nbsp;working closely with the sales teams on&nbsp;managing pipeline, opportunities, wins using Dynamics CRM
+—&nbsp;data validation and cleansing
+—&nbsp;experience with Dynamics CRM&nbsp;as a&nbsp;user and administrator&nbsp;— at&nbsp;least 2+&nbsp;years
+—&nbsp;Development of&nbsp;Dynamics CRM workflows
+—&nbsp;excellent...
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="38310">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/b2b-soft/vacancies/38310/">Senior C# Web Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/b2b-soft/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/b2b.png" srcset="https://s.dou.ua/img/static/favicons/b2b32.png 1.1x">&nbsp;B2B Soft</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				About company:
+B2B Soft is&nbsp;an&nbsp;innovative American product&nbsp;IT company with its headquarter in&nbsp;New-York and development center in&nbsp;Kiev. We&nbsp;focus on&nbsp;delivery of&nbsp;point-of-sales solutions for Wireless, Retail and Small Businesses.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="49783">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/animo/vacancies/49783/">Backend Developer (.Net)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/animo/vacancies/">ANIMO</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Мы&nbsp;команда UpGames Limited, которая работает над созданием продукта в&nbsp;индустрии игр, в&nbsp;основе которого: простота, социальность, инновационность. 
+Проекту&nbsp;1,5&nbsp;года, основан одним из&nbsp;топ директоров крупнейшего в&nbsp;мире покерного онлайн оператора PokerStars.com.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="50698">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ideals-solutions/vacancies/50698/">Junior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ideals-solutions/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ideals.png" srcset="https://s.dou.ua/img/static/favicons/id32.png 1.1x">&nbsp;iDeals Solutions</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				International software technological Company&nbsp;— iDeals Solutions https://www.idealsvdr.com/ opens a&nbsp;new position for Junior .NET Developer in&nbsp;its Kiev office.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53946">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/wirex-ltd/vacancies/53946/">Middle .Net Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/wirex-ltd/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/wirex16.png" srcset="https://s.dou.ua/img/static/favicons/wirex.png 1.1x">&nbsp;Wirex Ltd</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Are you a&nbsp;Middle .Net Developer? Looking for new challenges and have a&nbsp;strong wish to&nbsp;develop yourself? Then join our big family! Wirex is&nbsp;waiting for you!
+
+Who we&nbsp;are:
+
+Wirex is&nbsp;the original cryptocurrency enabled payment card, wallet and app combination.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51803">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/epam-systems/vacancies/51803/">Senior .NET Full Stack Software Engineer (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/epam-systems/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/epam2.png" srcset="https://s.dou.ua/img/static/favicons/epam2x.png 1.1x">&nbsp;EPAM</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				EPAM&nbsp;Systems, Inc., delivers product development and platform engineering services to&nbsp;Global 2000 companies by&nbsp;solving complex business challenges with breakthrough technical innovations.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51876">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/tov-nominal-inzhiniring/vacancies/51876/">Software Engineer (C++, C#)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/tov-nominal-inzhiniring/vacancies/">Си Пи Ай - Киев, ТОВ</a></strong>				<span class="salary">от&nbsp;$1800</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				The role of&nbsp;Senior Software Engineer (Mathematician) is&nbsp;to&nbsp;develop, evaluate, integrate and maintain software for&nbsp;PC and firmware for various embedded system projects as&nbsp;well as&nbsp;research and design of&nbsp;new mathematic approach for banknote authentication.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53935">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/b2b-soft/vacancies/53935/">Senior/Middle C# developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/b2b-soft/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/b2b.png" srcset="https://s.dou.ua/img/static/favicons/b2b32.png 1.1x">&nbsp;B2B Soft</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				About company:
+B2B Soft is&nbsp;an&nbsp;innovative American product&nbsp;IT company with its headquarter in&nbsp;New-York and development center in&nbsp;Kiev. We&nbsp;focus on&nbsp;delivery of&nbsp;point-of-sales solutions for Wireless, Retail and Small Businesses.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53934">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/epam-systems/vacancies/53934/">Senior Full-Stack .Net Software Engineer (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/epam-systems/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/epam2.png" srcset="https://s.dou.ua/img/static/favicons/epam2x.png 1.1x">&nbsp;EPAM</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				EPAM&nbsp;Systems, Inc., delivers product development and platform engineering services to&nbsp;Global 2000 companies by&nbsp;solving complex business challenges with breakthrough technical innovations.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53928">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/epam-systems/vacancies/53928/">Senior Software Test Engineer/ .Net (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/epam-systems/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/epam2.png" srcset="https://s.dou.ua/img/static/favicons/epam2x.png 1.1x">&nbsp;EPAM</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				EPAM&nbsp;Systems, Inc., delivers product development and platform engineering services to&nbsp;Global 2000 companies by&nbsp;solving complex business challenges with breakthrough technical innovations.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="49811">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/virtuace-inc/vacancies/49811/">Full Stack .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/virtuace-inc/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/virtuace.png" srcset="https://s.dou.ua/img/static/favicons/va32.png 1.1x">&nbsp;Virtuace Inc</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				CRM system for sport clubs and martial arts schools that uses cloud-based technology to&nbsp;help member-based businesses connect with their communities.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53827">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/cnw/vacancies/53827/">Middle Software Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/cnw/vacancies/">CNW</a></strong>				<span class="salary">до&nbsp;$2300</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Информационно аналитический портал. Рейтинговое агенство
+
+Контактное лицо: Святослав, 38073&nbsp;033 70&nbsp;47
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53757">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/uklon/vacancies/53757/">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/uklon/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/uklon.png" srcset="https://s.dou.ua/img/static/favicons/u32_QW77xgr.png 1.1x">&nbsp;Uklon</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Мы, ИТ- компания, создаем и&nbsp;совершенствуем сервис Uklon.ua, который делает для людей услуги такси гибче, удобнее и&nbsp;доступнее. Мы&nbsp;создаем новое, а&nbsp;не&nbsp;вдогонку копируем старое. У&nbsp;нас дружная команда, в&nbsp;которой доверие, взаимопомощь и&nbsp;позитив стоят на&nbsp;первом месте.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="28464">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/quadrox/vacancies/28464/">Junior C#/ASP.NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/quadrox/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/q16_kqOPHNC.png" srcset="https://s.dou.ua/img/static/favicons/q32_4yDBnuw.png 1.1x">&nbsp;Quadrox</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				ABOUT THE PROJECT
+Video Server (up&nbsp;to&nbsp;100 cameras per server): live streaming, recordings, video analytics, license plate recognition, video motion detection, etc.
+We&nbsp;enjoy and casual and highly collaborative environment at&nbsp;QUADROX.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="49752">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/intetics-co/vacancies/49752/">Senior Fullstack Developer (.Net+JS)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/intetics-co/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/intetics.png" srcset="https://s.dou.ua/img/static/favicons/i32_8DGlYKJ.png 1.1x">&nbsp;Intetics Inc.</a></strong>				<span class="cities">Киев, Харьков, Минск (Беларусь), удаленно</span>
+		</div>
+			<div class="sh-info">
+				Intetics приглашает к&nbsp;сотрудничеству уверенного Fullstack разработчика (.Net+JS).
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53742">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/it-solutions/vacancies/53742/">ASP.Net Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/it-solutions/vacancies/">IT-Solutions</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				аналитическое мышление, педантичность, математический склад ума;
+элементарное понимание бизнес-процессов в&nbsp;компании;
+Net, С#, ASP.NET&nbsp;— обязательно;
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51629">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/edenlab/vacancies/51629/">Junior C# developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/edenlab/vacancies/">Edenlab</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Team responsibilities are end-to-end project management, business/system analysis, process design, development of&nbsp;functional specification, lead of&nbsp;developers, functional/ regression/UAT testing, transfer of&nbsp;platform into production, IT&nbsp;support.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="50383">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/50383/">С# + JavaScript developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/r_Qmc7yaL.png" srcset="https://s.dou.ua/img/static/favicons/r32_wfhCSUq.png 1.1x">&nbsp;Rozetka.ua  интернет-супермаркет</a></strong>				<span class="salary">$1500–2000</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Опыт разработки веб приложений на&nbsp;JavaScript
+Опыт работы с&nbsp;платформой .NET и&nbsp;языком C#
+Знание SQL, опыт работы с&nbsp;базой данных MS&nbsp;SQL
+			</div>
+	</div>
+</li>
+
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51696">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/51696/">C# Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/rozetka-ua-internet-supermarket/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/r_Qmc7yaL.png" srcset="https://s.dou.ua/img/static/favicons/r32_wfhCSUq.png 1.1x">&nbsp;Rozetka.ua  интернет-супермаркет</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Находимся на&nbsp;Подоле в&nbsp;районе метро Т.Шевченко
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53714">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/53714/">Senior Web Application Developer for Payoneer (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;the Payoneer, Ciklum is&nbsp;looking for Senior Web Application Developer to&nbsp;join Kyiv team on&nbsp;full-time basis. The team develops WEB-Applications. The development includes both client side, mostly using AngualrJS and server side, mostly using C# and SQL.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53713">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/intellectsoft/vacancies/53713/">Full-Stack Developer (.NET and Angular&nbsp;2)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/intellectsoft/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/is_16.png" srcset="https://s.dou.ua/img/static/favicons/is_32_YmTjyKr.png 1.1x">&nbsp;Intellectsoft</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				At&nbsp;Intellectsoft, we&nbsp;are passionate about creating a&nbsp;world in&nbsp;which intelligent software improves millions of&nbsp;lives.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53673">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/daxx-group/vacancies/53673/">ASP.NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/daxx-group/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/daxx.png" srcset="https://s.dou.ua/img/static/favicons/daxx_dlkMukf.png 1.1x">&nbsp;Daxx BV</a></strong>				<span class="cities">Киев, Харьков, Днепр</span>
+		</div>
+			<div class="sh-info">
+				Our customer is&nbsp;a&nbsp;full-service internet office in&nbsp;Breda. It&nbsp;designs and develops online solutions for web and mobile. The company creates websites, web applications, integrations, e-commerce solutions, intranets, mobile apps and more.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="37204">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/boovatech/vacancies/37204/">Full-stack Web Developer (SPA + .Net)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/boovatech/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/bo16.png" srcset="https://s.dou.ua/img/static/favicons/bo32.png 1.1x">&nbsp;Boovatech</a></strong>				<span class="salary">$1500–2500</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				adaptiveCASH&nbsp;— an&nbsp;enterprise-level set of&nbsp;cash management solutions for businesses with a&nbsp;massive cash turnover (Banks, Cash-in-Transit companies, Retail, etc.). More details you will find on&nbsp;adaptivecash.com
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="11512">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ego-cms/vacancies/11512/">Middle .Net/Angular.js developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ego-cms/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ego.png">&nbsp;EGO creative media solutions</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Projects that we&nbsp;implement it&nbsp;is&nbsp;not monotonous tasks conveyor.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53642">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/ciklum/vacancies/53642/">Middle C# Developer for Tobii Pro (Kyiv)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/ciklum/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ciklum.png" srcset="https://s.dou.ua/img/static/favicons/ci2.png 1.1x">&nbsp;Ciklum</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				On&nbsp;behalf of&nbsp;Tobii, Ciklum is&nbsp;looking for Middle C# Developer to&nbsp;join Kyiv team on&nbsp;full-time basis.
+As&nbsp;a&nbsp;developer at&nbsp;Tobii you will be&nbsp;using the latest technologies in&nbsp;combination with modern tools to&nbsp;obtain the most efficient working environment.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53633">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/n-ix/vacancies/53633/">Senior .NET Back End developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/n-ix/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/n16_xvPlf0s.png" srcset="https://s.dou.ua/img/static/favicons/favicon_32.png 1.1x">&nbsp;N-iX</a></strong>				<span class="cities">Киев, Львов</span>
+		</div>
+			<div class="sh-info">
+				Our client, is&nbsp;one of&nbsp;Europe’s fastest growing mobile companies with over five million active customers, 1,000 employees worldwide and operations in&nbsp;eight countries. The client is&nbsp;using the mobile virtual network operator business model.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53608">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/itera-consulting-group-ukraine/vacancies/53608/">Senior .Net Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/itera-consulting-group-ukraine/vacancies/">Itera</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Itera is&nbsp;looking for a&nbsp;Senior .NET Developer to&nbsp;be&nbsp;a&nbsp;part of&nbsp;distributed SCRUM&nbsp;team. Client is&nbsp;a&nbsp;large European company (one of&nbsp;the largest finance groups in&nbsp;the World) providing a&nbsp;broad range of&nbsp;financial services.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53605">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/playtika-ua/vacancies/53605/">Mobile .NET Technical Lead</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/playtika-ua/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/pt_80iR6Ja.png" srcset="https://s.dou.ua/img/static/favicons/pt32.png 1.1x">&nbsp;Playtika UA</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We’re looking for a&nbsp;Technical Lead who is&nbsp;proficient with .NET and C#.
+You will develop high-performance mobile application using internal frameworks distributed as&nbsp;git repositories (linked as&nbsp;submodules) or&nbsp;internal nuget packages.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53604">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/playtika-ua/vacancies/53604/">Senior Mobile .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/playtika-ua/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/pt_80iR6Ja.png" srcset="https://s.dou.ua/img/static/favicons/pt32.png 1.1x">&nbsp;Playtika UA</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We’re looking for a&nbsp;Senior Software Engineer who is&nbsp;proficient with .NET and C#.
+You will develop high-performance mobile application using internal frameworks distributed as&nbsp;git repositories (linked as&nbsp;submodules) or&nbsp;internal nuget packages.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51175">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/flying-beagle-ltd/vacancies/51175/">Junior Unity/C# Developer (Game RTS)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/flying-beagle-ltd/vacancies/">Flying Beagle Limited</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				* Real-time strategy game
+* Similar to&nbsp;Clash Royale
+* More: http://www.flyingbeaglegames.com/jobs
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="11783">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/fuib/vacancies/11783/">Senior .NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/fuib/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/16_mdAlqTQ.png" srcset="https://s.dou.ua/img/static/favicons/32_yLNVaIS.png 1.1x">&nbsp;BANK PUMB (FUIB)</a></strong>				<span class="salary">$2500–3000</span>
+				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				We&nbsp;develop “Bank Software Platform” to&nbsp;automate bank activities mainly using Microsoft technology stack. The main project is&nbsp;system for automation and management business processes of&nbsp;the bank (BWM).
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="41952">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/moneyveo/vacancies/41952/">Full stack C#/ASP.NET MVC developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/moneyveo/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/mv.png">&nbsp;MoneyVeo</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Наш продукт&nbsp;— наша система кредитования в&nbsp;целом (http://moneyveo.com/)
+Фронт&nbsp;— ASP.NET MVC, бек&nbsp;— webservices and winservices in&nbsp;C#.
+Методология&nbsp;— короткоитерационный микс, базированный на&nbsp;Scrum/Agile.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51233">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/allstars-it/vacancies/51233/">JB-102 .NET Team Leader (Server side)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/allstars-it/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/alls.png" srcset="https://s.dou.ua/img/static/favicons/st32_nQM3jD0.png 1.1x">&nbsp;AllStars-IT Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Varonis Systems is&nbsp;the leader in&nbsp;unstructured and semi-structured data governance software, which is&nbsp;any human generated data that is&nbsp;within a&nbsp;company’s environment. Our goal is&nbsp;to&nbsp;protect companies most sensitive information from insider threats and cyberattacks.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="30065">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/easypay/vacancies/30065/">.NET Web Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/easypay/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/ep16.png" srcset="https://s.dou.ua/img/static/favicons/ep32.png 1.1x">&nbsp;EasyPay.UA</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Компании «EasySoft», инновационному проекту по&nbsp;развитию финансово технического направления требуется «ASP.NET разработчик».
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="2817">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/melior-games/vacancies/2817/">SENIOR ASP.NET MVC Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/melior-games/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/melior.ico">&nbsp;Melior Games</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				—&nbsp;.Net Framework;
+—&nbsp;Experience with C#, ASP .NET MVC;
+—&nbsp;Knowledge of&nbsp;HTML, JavaScript, AngularJs, CSS;
+—&nbsp;Understanding of&nbsp;SQL, Entity Framework;
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="51236">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/homsters/vacancies/51236/">Middle .NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/homsters/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/pe.png">&nbsp;Homsters</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Homsters.com is&nbsp;a&nbsp;real estate marketplace with innovation center in&nbsp;Kyiv.
+We&nbsp;are now live in&nbsp;2&nbsp;countries, with 3rd to&nbsp;follow this year, and more in&nbsp;2018.
+Join now to&nbsp;become a&nbsp;part of&nbsp;an&nbsp;awesome team creating truly valuable products
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="42513">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/svitsoft/vacancies/42513/">.NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/svitsoft/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/svitsoft.png" srcset="https://s.dou.ua/img/static/favicons/sv32.png 1.1x">&nbsp;SvitSoft</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				SvitSoft is&nbsp;a&nbsp;team of&nbsp;web professionals (located in&nbsp;Kiev, Ukraine), specialized in&nbsp;development of&nbsp;digital solutions.
+We&nbsp;created our own product Ad-Saver (http://www.ad-saver.com/) is&nbsp;сall tracking, a&nbsp;technology for tracking incoming calls and advertising efficiency.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53398">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/infopulse/vacancies/53398/">Senior Automation QA&nbsp;Engineer (C#/Selenium)</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/infopulse/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/infopulse.png" srcset="https://s.dou.ua/img/static/favicons/i32_AFisTru.png 1.1x">&nbsp;Infopulse</a></strong>				<span class="cities">Киев, Житомир</span>
+		</div>
+			<div class="sh-info">
+				Our customer is&nbsp;a&nbsp;world’s top audit company, one of&nbsp;the Big Four
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="36241">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/wirex-ltd/vacancies/36241/">Senior .NET Backend developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/wirex-ltd/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/wirex16.png" srcset="https://s.dou.ua/img/static/favicons/wirex.png 1.1x">&nbsp;Wirex Ltd</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Are you bored on&nbsp;your current project? Are you looking for a&nbsp;possibility to&nbsp;move forward?
+
+Wirex Limited has an&nbsp;opening exactly for you!
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="53376">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/allstars-it/vacancies/53376/">JB-101 .NET Full Stack Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/allstars-it/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/alls.png" srcset="https://s.dou.ua/img/static/favicons/st32_nQM3jD0.png 1.1x">&nbsp;AllStars-IT Ukraine</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Varonis Systems is&nbsp;the leader in&nbsp;unstructured and semi-structured data governance software, which is&nbsp;any human generated data that is&nbsp;within a&nbsp;company’s environment. Our goal is&nbsp;to&nbsp;protect companies most sensitive information from insider threats and cyberattacks.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="46927">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/onseo/vacancies/46927/">Middle .NET developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/onseo/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/o16_DhDy9vW.png" srcset="https://s.dou.ua/img/static/favicons/o32_QXnBedH.png 1.1x">&nbsp;Onseo</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				As&nbsp;global leaders of&nbsp;online gaming entertainment, we&nbsp;are committed to&nbsp;a&nbsp;pro-active policy of&nbsp;corporate and social responsibility that reflects the high professional and ethical standards we&nbsp;have set for ourselves.
+			</div>
+	</div>
+</li>
+
+
+        
+
+
+<li class="l-vacancy">
+	<div class="vacancy" _id="14712">
+		<div class="title">
+			<a class="vt" href="https://jobs.dou.ua/companies/trinetix/vacancies/14712/">Senior .NET Developer</a>&nbsp;<strong>в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/trinetix/vacancies/"><img class="f-i" src="https://s.dou.ua/img/static/favicons/trinetix.png" srcset="https://s.dou.ua/img/static/favicons/trinetix_2x.png 1.1x">&nbsp;Trinetix</a></strong>				<span class="cities">Киев</span>
+		</div>
+			<div class="sh-info">
+				Projects: Business Enterprise Solutions (financial analytics, audit, business analysis, documentation management).
+			</div>
+	</div>
+</li>
+
+
+</ul>
+
+			<div class="more-btn">
+				<a href="javascript:;" class="" style="display: none;">Больше вакансий</a>
+			</div>
+	</div>
+								</div>
+								<div class="cell"></div>
+								<div class="cell">
+		<div style="margin-top: 32px;">
+					<div class="b-region-filter">
+		<div class="tte"><h3>Город</h3></div>
+		<div class="g-b-hr"></div>
+		<ul class="selected">
+
+				
+
+
+
+
+
+	<li>
+Киев 		<a class="cl" title="Не показывать" href="https://jobs.dou.ua/vacancies/?category=.NET">×</a>
+	</li>
+
+
+
+		</ul>
+				<div class="ot-te">В других городах:</div>
+
+			<ul class="other">
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9A%D0%B8%D0%B5%D0%B2&amp;category=.NET">Киев</a>
+		<em>124</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2&amp;category=.NET">Харьков</a>
+		<em>49</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2&amp;category=.NET">Львов</a>
+		<em>41</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%94%D0%BD%D0%B5%D0%BF%D1%80&amp;category=.NET">Днепр</a>
+		<em>26</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%B0&amp;category=.NET">Одесса</a>
+		<em>9</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%92%D0%B8%D0%BD%D0%BD%D0%B8%D1%86%D0%B0&amp;category=.NET">Винница</a>
+		<em>9</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%A0%D0%BE%D0%B2%D0%BD%D0%BE&amp;category=.NET">Ровно</a>
+		<em>5</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%86%D1%8B&amp;category=.NET">Черновцы</a>
+		<em>3</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4&amp;category=.NET">Ужгород</a>
+		<em>3</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9&amp;category=.NET">Хмельницкий</a>
+		<em>2</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80&amp;category=.NET">Житомир</a>
+		<em>2</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%92%D1%80%D0%BE%D1%86%D0%BB%D0%B0%D0%B2&amp;category=.NET">Вроцлав (Польша)</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D1%8C%D0%B5&amp;category=.NET">Запорожье</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%90%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC&amp;category=.NET">Амстердам (Нидерланды)</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9B%D0%BE%D0%B4%D0%B7%D1%8C&amp;category=.NET">Лодзь (Польша)</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD&amp;category=.NET">Херсон</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D0%B0&amp;category=.NET">Полтава</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%A1%D1%83%D0%BC%D1%8B&amp;category=.NET">Сумы</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9C%D0%B8%D0%BD%D1%81%D0%BA&amp;category=.NET">Минск (Беларусь)</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%B9%20%D0%A0%D0%BE%D0%B3&amp;category=.NET">Кривой Рог</a>
+		<em>1</em>
+	</li>
+
+					
+
+
+
+
+	<li>
+		<a href="https://jobs.dou.ua/vacancies/?city=%D0%9B%D1%8E%D0%B1%D0%BB%D0%B8%D0%BD&amp;category=.NET">Люблин (Польша)</a>
+		<em>1</em>
+	</li>
+
+
+					
+
+
+
+
+
+
+		<li>
+			<a href="https://jobs.dou.ua/vacancies/?remote&amp;category=.NET">удаленная работа</a>
+			<em>9</em>
+		</li>
+
+
+					
+
+
+
+
+
+		<li>
+			<a href="https://jobs.dou.ua/vacancies/?relocation&amp;category=.NET">работа за рубежом</a>
+			<em>6</em>
+		</li>
+
+			</ul>
+	</div>
+
+		</div>
+								</div>
+							</div>
+						</div>
+				</div>
+				<div class="cell m-hide"></div>
+				<div class="cell m-hide">
+			<a href="https://t.me/dou_kyiv" target="_blank"><img src="https://s.dou.ua/storage-files/dou_kyiv.png" style="max-width:100%;"></a><br><br><br>
+
+
+
+
+
+
+
+
+
+
+	<div class="b-similar" style="margin-top:32px;">
+		<h3>Полезные статьи</h3>
+		<ul>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/articles/senior-net-tips/?from=jobsrelated" class="link" target="_blank">Советы сеньоров: как прокачать знания junior .NET</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/articles/lawyers-big-time-1/?from=jobsrelated" class="link" target="_blank">Как стать .NET разработчиком без профильного образования</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/articles/make-net-great-again/?from=jobsrelated" class="link" target="_blank">Make .NET Great Again: что нам принесла новая инкарнация .NET?</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/articles/microsoft-azure-paas/?from=jobsrelated" class="link" target="_blank">Microsoft Azure PaaS для .NET приложений</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/articles/net-core/?from=jobsrelated" class="link" target="_blank">.NET Core: возможности и перспективы</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/articles/net-core-in-da-cloud/?from=jobsrelated" class="link" target="_blank">.NET Core in da Cloud</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/tags/.NET дайджест/?from=jobsrelated" class="link" target="_blank">.NET дайджесты</a>
+					</div>
+				</li>
+				<li class="item">
+					<div class="title">
+						<a href="https://dou.ua/lenta/tags/SQL Server дайджест/?from=jobsrelated" class="link" target="_blank">SQL Server дайджесты</a>
+					</div>
+				</li>
+		</ul>
+	</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+<footer class="b-footer">
+	<div class="l-content m-db">
+		<div class="l-content-wrap m-db">
+			<div class="col2 m-hide"></div>
+			<div class="col18 m-db">
+				© 2005—2017 <strong><a href="https://dou.ua/">DOU.ua</a></strong>
+				<p class="footer-lang-switch">
+							<a href="?switch_lang=uk">Українська</a>
+·							<strong>Русский</strong>
+·							<a href="?switch_lang=en">English</a>
+				</p>
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col50 m-cola m-db">
+				<div class="social">
+						<span class="regcount"><a href="https://dou.ua/users/">Нас уже 213 985</a>.</span>
+					Мы в соцсетях:
+					<a href="https://www.facebook.com/devua"><img src="https://s.dou.ua/assets/img/facebook.svg" width="19" height="19"></a>
+					<a href="https://twitter.com/devua"><img src="https://s.dou.ua/assets/img/twitter.svg" width="19" height="19"></a>
+					<a href="https://github.com/devua/csv"><img src="https://s.dou.ua/assets/img/github.svg" width="19" height="19"></a>
+					<a href="https://dou.ua/telegram/"><img src="https://s.dou.ua/assets/img/telegram.svg" width="19" height="19"></a>
+				</div>
+
+				<div class="m-hide">
+						<a href="http://djinni.co/developers/?from=dou-footer" target="_blank" rel="noopener">Поиск программистов на Джинне</a>
+				</div>
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col24 m-db m-cola">
+				<ul class="links">
+					<li><a href="https://dou.ua/contacts/">Контакты</a></li>
+					<li><a href="https://dou.ua/adv/">Реклама</a></li>
+					<li><a href="https://dou.ua/legal/">Legal</a></li>
+				</ul>
+
+				Пишите нам на <a href="mailto:support@dou.ua">support@dou.ua</a>
+			</div>
+
+			<div class="col2 m-hide"></div>
+		</div>
+	</div>
+</footer>
+			<div class="modal-wrap">
+	<div class="modal-screen"></div>
+	<div id="_loginDialog" class="b-login-dialog">
+		<div class="head">
+			<h1 class="title">Воспользуйтесь аккаунтом</h1>
+			<div class="close cancel">×</div>
+		</div>
+
+		<div class="border">
+			<div class="step1">
+					<ul class="b-login-buttons">
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/facebook/" id="btnFb">
+				<div class="login-button btnFb">
+					<div class="layer"></div>
+				</div>
+				<div class="link">Facebook</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/google-oauth2/" id="btnGoogle">
+				<div class="login-button btnGoogle">
+					<div class="layer"></div>
+				</div>
+				<div class="link">Google</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/linkedin/" id="btnLinkedIn">
+				<div class="login-button btnLin">
+					<div class="layer"></div>
+				</div>
+				<div class="link">LinkedIn</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/vk-oauth2/" id="btnLoginVk">
+				<div class="login-button btnLoginVk">
+					<div class="layer"></div>
+				</div>
+				<div class="link">ВКонтакте</div>
+			</a>
+		</li>
+	</ul>
+
+	<div class="alt-login-method">Войти <a id="_loginByMail" href="javascript:;">по почте</a> или
+		<a href="javascript:;" l="/login/twitter/" id="btnTw">твиттеру</a>.
+	</div>
+
+			</div>
+			<div class="step2" style="display: none;">
+				<ul class="b-content-menu">
+					<li class="sel" nav="login">
+						<div class="text wrap">
+							<span>Вход</span>
+							<b class="l"></b>
+							<b class="c"></b>
+							<b class="r"></b>
+						</div>
+					</li>
+					<li nav="register">
+						<div class="wrap">
+							<a href="javascript:;">Регистрация</a>
+						</div>
+					</li>
+					<li nav="reset"><div class="wrap"><a href="javascript:;">Восстановление пароля</a></div></li>
+				</ul>
+					<div class="login view">
+		<div class="b-form">
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Почта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="text" name="username" value="" class="first txtEmail">
+			</div>
+			
+		</div>
+	</div>
+				<div class="row class">
+					<div class="cell"><label class="input-label">Пароль</label></div>
+					<div class="cell">
+						<div class="input">
+							<input type="password" class="txtPassword" value="" name="password">
+						</div>
+						<div id="wrong-password-message">Неправильный пароль</div>
+					</div>
+				</div>
+			</div>
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Войти</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="register view">
+		<div class="table form-section">
+			<div class="message-closed">Регистрация по email закрыта</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="reset view">
+		<div class="b-form">
+
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Почта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email" name="username" value="" class="first txtEmail">
+			</div>
+			
+		</div>
+	</div>
+			</div>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Сбросить пароль</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Вы неверно указали свою почту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				<div class="alt-login-method">Или <a id="_loginBySN" href="javascript:;">воспользуйтесь аккаунтом</a>.</div>
+			</div>
+				<div class="add-email" style="display:none;">
+		<div class="message" style="font-size:14px;margin-left:16px;margin-bottom:15px;">
+			Для того, чтобы сделать ваш профиль полноценным, укажите вашу почту.<br>
+			Мы отправим вам письмо со ссылкой для подтверждения.
+		</div>
+		<div class="b-form">
+			<form method="POST">
+				<div class="table form-section">
+					<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+					<div class="row class">
+		<div class="cell"><label class="input-label" for="">Почта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email" name="email" value="" class="first txtEmail">
+			</div>
+			
+		</div>
+	</div>
+				</div>
+<input type="hidden" name="csrfmiddlewaretoken" value="jI6RF10GKR1KP8SmDnZ1IyEHvps68G9RWrqbNY2Py6nyEJvVlotOVE9LOGQTdJCL">			</form>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell b-buttons">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Сохранить</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Вы неверно указали свою почту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+			<div class="agreement">
+				<label><input checked="" type="checkbox" id="agree-checkbox"> я согласен(-на)</label> с <a href="//dou.ua/legal/" target="_blank">условиями использования сайта</a> и <a href="//dou.ua/privacy/" target="_blank">политикой конфиденциальности</a>.
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	<script>
+		window.CSRF_TOKEN = "IZSZfDKdFIxFzNFvoDARTYaJyYYiVP3wlIcjnAMmtXTtooi46E4E64FNRfm50Swq";
+		window.USER_ID = '';
+		window.LOGIN_URL = "https://jobs.dou.ua/ajax-login/";
+		window.RESET_PASSWORD_URL = "https://jobs.dou.ua/j-lost-password/";
+		window.LANG = "ru";
+		var MEDIA_URL = 'https://s.dou.ua/';
+	</script>
+
+
+<script type="text/javascript" src="https://s.dou.ua/build/built.v1378.75176dd.js"></script>
+	<script type="text/javascript" src="https://s.dou.ua/build/built.v1378.0451ea9.js"></script>
+
+
+	<script>
+		jQuery(function () {
+					function loginshow() {
+						window.loginManager.showLogin({
+							success: function() {
+								window.location.reload();
+							},
+						});
+						return false;
+					}
+					$('#login-link').click(loginshow);
+				if (!window.loginManager)
+					window.loginManager = new LoginManager();
+				// без этого не работает кнопка "откликнуться на вакансию" =\
+
+
+		window.XHR_VS_URL = "https://jobs.dou.ua/vacancies/xhr-load/?category=.NET&amp;city=%D0%9A%D0%B8%D0%B5%D0%B2";
+	var vm = new ItemListManager($("#vacancyListId"), "ul.lt", "li.l-vacancy", window.XHR_VS_URL);
+		});
+
+
+			$(function() {
+				if (impressions.length) {
+					$.post('/ajax-impressions-track/', {
+						'csrfmiddlewaretoken': window.CSRF_TOKEN,
+						'impressions': JSON.stringify(impressions)
+					});
+				}
+			});
+	</script>
+
+
+
+</body></html>
