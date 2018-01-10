@@ -25,8 +25,11 @@ namespace DVR
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IDouVacancyResearcheService, DouVacancyResearcheService>();
+            services.AddScoped<ITagResultsService, TagResultsService>();
             services.AddSingleton<XmlContext, XmlContext>();
             services.AddSingleton<ICompanyRepository, CompanyRepository>();
+            services.AddSingleton<ITechnologyCountAnalysisResultRepository, TechnologyCountAnalysisResultRepository>();
+            
             services.AddMvc();
         }
 

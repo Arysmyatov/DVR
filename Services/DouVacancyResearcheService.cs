@@ -17,6 +17,9 @@ namespace DVR.Services
         #region private fields
 
         private readonly ICompanyRepository _companyRepository;
+        private readonly ITechnologyCountAnalysisResultRepository _technologyCountAnalysisResultRepository;   
+
+        private TechnologyCountAnalysisResult technologyCountAnalysisResult;
 
         #endregion private fields
 
@@ -24,9 +27,13 @@ namespace DVR.Services
 
         #region constructors
 
-        public DouVacancyResearcheService(ICompanyRepository companyRepository)
+        public DouVacancyResearcheService(ICompanyRepository companyRepository,
+                                          ITechnologyCountAnalysisResultRepository technologyCountAnalysisResultRepository)
         {
             _companyRepository = companyRepository;
+            _technologyCountAnalysisResultRepository = technologyCountAnalysisResultRepository;
+
+            InitTechnologyCountAnalysisResult();
         }
 
         #endregion constructors        
@@ -37,6 +44,7 @@ namespace DVR.Services
         public async Task UpdateCompanyRepository(){
             var companies = await GetCompaniesAsync();
             _companyRepository.UpdateCompanies(companies);
+            _technologyCountAnalysisResultRepository.AddResult(technologyCountAnalysisResult);
         }
 
 
@@ -233,23 +241,33 @@ namespace DVR.Services
         private IEnumerable<string> GetTags(PageContent pageContent)
         {
             var tags = new List<string>();
-            foreach (var tag in TagDescriptions.GetAllTagDescriptions())
-            {
-                foreach (var technology in tag.Technologies)
+            foreach(var tagGroup in technologyCountAnalysisResult.TagGroups){
+                foreach (var tagDescription in tagGroup.TagDescriptions)
                 {
-                    if (pageContent.Vacancy
-                                   .Contains(technology.ToUpper()))
+                    foreach (var technology in tagDescription.Technologies)
                     {
-                        tag.Count++;
-                        tags.Add(tag.Name);
-                        break;
+                        if (pageContent.Vacancy
+                                    .Contains(technology.ToUpper()))
+                        {
+                            tagDescription.Count++;
+                            tags.Add(tagDescription.Name);
+                            break;
+                        }
                     }
-                }
+                }    
             }
 
             return tags;
         }
 
+
+        private void InitTechnologyCountAnalysisResult()
+        {
+            technologyCountAnalysisResult = new TechnologyCountAnalysisResult {
+                Date = DateTime.Now,
+                TagGroups = TagGroups.GetAllTaggGroups()
+            };
+        }
 
         #endregion private methods        
     }

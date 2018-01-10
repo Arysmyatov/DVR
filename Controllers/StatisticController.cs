@@ -14,15 +14,19 @@ namespace DVR.Controllers
 {
     [Route("api/[controller]")]
     public class StatisticController : Controller
-    {
-        public StatisticController()
+    {        
+        private readonly ITagResultsService _tagResultsService;
+
+        public StatisticController(ITagResultsService tagResultsService)
         {
+            _tagResultsService = tagResultsService;
         }
 
         public IActionResult Get()
         {
-            var groups = TagGroups.GetAllTaggGroups();
-            return Ok(groups);
+            //var groups = TagGroups.GetAllTaggGroups();
+            var results = _tagResultsService.GetResults();
+            return Ok(results);
         }
     }
 }

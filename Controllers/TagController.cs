@@ -18,5 +18,8 @@ namespace DVR.Controllers
             var tags =  TagDescriptions.GetAllTagDescriptions().Select(t => new { Value = t.Name, Text = t.Name });
             return Ok(tags);
         }        
+
+
+        
     }
 }
