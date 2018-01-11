@@ -1,0 +1,14 @@
+<h1>Statistics</h1>
+
+<p *ngIf="!chartgroups">
+    <em>Loading...</em>
+</p>
+
+<div class="statistics form-group" *ngFor="let chartgroup of chartgroups">
+    <h2 class="chartgroup-name"> {{ chartgroup.GroupName }} </h2>
+
+    <canvas baseChart width="10" height="10" [datasets]="chartgroup.Data" [labels]="chartgroup.lineChartLabels" [options]="lineChartOptions"
+        [colors]="lineChartColors" [legend]="lineChartLegend" [chartType]="lineChartType" (chartHover)="chartHovered($event)"
+        (chartClick)="chartClicked($event)">
+    </canvas>
+</div>

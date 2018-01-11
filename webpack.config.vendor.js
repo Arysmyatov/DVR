@@ -21,7 +21,9 @@ const nonTreeShakableModules = [
     'es6-shim',
     'event-source-polyfill',
     'jquery',
-    'ng2-simple-autocomplete'
+    'ng2-simple-autocomplete',
+    'd3',
+    'ngx-charts'
 ];
 const allModules = treeShakableModules.concat(nonTreeShakableModules);
 
